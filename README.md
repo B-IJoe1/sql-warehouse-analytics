@@ -78,20 +78,20 @@ Clear and consistent naming improves readability, reduces onboarding time for ne
 
 ## Data Architecture 
 Displays the ETL process from Bronze to Gold into the consumer layer
+
 ![Data Architecture](docs/data_architecture.png)
 
-## Data Flow
+## Data Integration
+How the tables connect with each other from the different source tables (CRM & ERP)
 
+![Data Integration](docs/data_integration.png)
+
+## Data Flow
 The source data that flows from the Silver layer into the Gold layer
 
 ![Data Flow](docs/data_flow.png)
 
 
-## Data Integration
-
-How the tables connect with each other from the different source tables (CRM & ERP)
-
-![Data Integration](docs/data_integration.png)
 
 ### Technical Columns
 
